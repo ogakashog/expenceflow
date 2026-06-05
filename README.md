@@ -10,6 +10,17 @@ A production-ready expense management system built with **React**, **Firebase**,
 
 ---
 
+## 📖 About the Project
+
+This Expense Management System was engineered as a demonstration of modern, full-stack web development capabilities. The goal was to combine robust backend functionality with a visually stunning, user-centric frontend experience. 
+
+Key focuses of this build include:
+- **Scalability**: Utilizing Firebase's NoSQL database structure to efficiently handle growing amounts of user data.
+- **User Experience**: Prioritizing a frictionless, glassmorphic UI with micro-interactions to make data entry a pleasure rather than a chore.
+- **Real-world Utility**: Implementing essential business workflows like file uploads, data filtering, and CSV exports for accounting teams.
+
+---
+
 ## ✨ Features
 
 ### Core
